@@ -1,7 +1,7 @@
 # ZooUtopia-Website
 # Zoo Website
 
-Welcome to my Zoo Website project! This repository hosts the code for a web application I made featuring a homepage, donate page, and login page.
+Welcome to my Zoo Website project! This repository hosts the code for the first website I ever made featuring a homepage, donate page, and login page.
 
 ## Pages
 
